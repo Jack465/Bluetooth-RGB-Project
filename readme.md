@@ -4,6 +4,8 @@ This project came about because I wanted to challenge myself and see if I could 
 
 The schematic and layout for the PCB is probably atrocious, however, it worked when I was testing it so I don't mind. 
 
+I have included the complied APK in this repository.
+
 ## Parts Used
 
 For this project, I used very few parts, I have listed them out below:
