@@ -1,3 +1,5 @@
+# This is kinda bad looking back at it, but it still works, might rewrite in the future
+
 # Bluetooth RGB Project
 
 This project came about because I wanted to challenge myself and see if I could create a functioning system. I created a PCB for the arduino, and bluetooth module. I could have included the mosfets I needed on that same PCB but I had already created that circuit on a separate prototype board, so it wasn't needed in my case.
